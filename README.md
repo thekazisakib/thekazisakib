@@ -12,6 +12,6 @@
 
 🔗 Connect with me on LinkedIn: www.linkedin.com/in/thekazisakib
 
-📫 Feel free to reach out: kazisakib125@gmail.com
+📫 Feel free to reach out: kazi-sakib@outlook.com
 
 Let's unlock the potential of data together! 💡📈
