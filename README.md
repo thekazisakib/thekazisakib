@@ -1,4 +1,4 @@
-# Hi, I’m Kazi 👋
+# Hi, I’m Kazi Sakib 👋
 
 I work on GenAI systems — mainly building LLM-based applications that actually run end-to-end, not just demos.
 
