@@ -11,8 +11,8 @@ LoRA / QLoRA • FastAPI • AWS
 ---
 
 Projects  
-• RAG system (Qdrant, Redis, FastAPI)
-• Voice agent (LLM + tool calling + APIs)
+• RAG system (Qdrant, Redis, FastAPI)                        
+• Voice agent (LLM + tool calling + APIs)                   
 • SummarAI (transformer-based NLP)
 
 ---
